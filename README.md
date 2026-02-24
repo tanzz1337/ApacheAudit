@@ -256,6 +256,10 @@ Laporan HTML berisi:
 - **Breakdown severity** — Critical, High, Medium, Low
 - **Tabel temuan** — dapat difilter per status (All / Failed / Warning / Passed)
 - **Kolom rekomendasi** — langkah perbaikan untuk setiap temuan
+  
+<img width="1149" height="608" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/35665ccc-77bb-4339-aa52-6660623b7c14" />
+
+
 
 ### JSON
 
