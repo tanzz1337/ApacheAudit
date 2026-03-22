@@ -1,4 +1,6 @@
-<img width="1410" height="664" alt="image" src="https://github.com/user-attachments/assets/6198fef5-b421-4f0a-9271-69d88110a468" />
+<p align="center">
+  <img src="apache_audit_logo.svg" width="400" alt="Apache Audit">
+</p>
 
 ```
  █████╗ ██████╗  █████╗  ██████╗██╗  ██╗███████╗
